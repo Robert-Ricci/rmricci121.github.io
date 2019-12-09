@@ -1,11 +1,11 @@
 # Site settings
-author: Robert M Ricci
-title: 
+author: Robert Ricci
+title: Robert's Flatiron Blog
 header-img: img/home-bg.png
 email: rmricci121@gmail.com
-copyright_name: Robert M Ricci
+copyright_name: Robert Ricci
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rmricci121
