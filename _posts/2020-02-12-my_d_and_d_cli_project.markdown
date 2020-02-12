@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My D&D CLI Project"
-date:       2020-02-12 17:37:28 +0000
+date:       2020-02-12 12:37:29 -0500
 permalink:  my_d_and_d_cli_project
 ---
 
