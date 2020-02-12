@@ -6,9 +6,9 @@ permalink:  a_little_bit_about_booleans
 ---
 
 
-Boolean logic or Boolean algebra was created by an English mathematician named Charles Boole.  Born in 1815, he became the family breadwinner, as his father’s shoemaking business was in decline. Even though he was nearly completly self-taught he became a teacher at the age of sixteen. At the age of twenty, he opened his own school. His two main focuses were differential equations and algebraic logic, and most well-known for his book *The Laws of Thought*.  He was awarded the first gold prize for mathematics from the Royal society. He also became the first professor of mathematics at Queen's college at cork, despite having never gone to university. 
+    Boolean logic or Boolean algebra was created by an English mathematician named Charles Boole.  Born in 1815, he became the family breadwinner, as his father’s shoemaking business was in decline. Even though he was nearly completly self-taught he became a teacher at the age of sixteen. At the age of twenty, he opened his own school. His two main focuses were differential equations and algebraic logic, and most well-known for his book *The Laws of Thought*.  He was awarded the first gold prize for mathematics from the Royal society. He also became the first professor of mathematics at Queen's college at cork, despite having never gone to university. 
       
-How this applies to computer science and programming, is that Boolean logic breaks everything in to two categories True and False, or put more simple 1's and 0's.  Booleans help us with control flow, as an example I will use the one right out of our lesson:
+    How this applies to computer science and programming, is that Boolean logic breaks everything in to two categories True and False, or put more simple 1's and 0's.  Booleans help us with control flow, as an example I will use the one right out of our lesson:
 			
 If I am tired, then I will take a nap. 
 			
