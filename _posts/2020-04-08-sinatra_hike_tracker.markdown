@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Hike Tracker"
-date:       2020-04-09 01:21:13 +0000
+date:       2020-04-08 21:21:13 -0400
 permalink:  sinatra_hike_tracker
 ---
 
